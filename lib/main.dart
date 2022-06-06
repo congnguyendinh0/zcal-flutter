@@ -29,7 +29,7 @@ class _WebViewAppState extends State<WebViewApp> {
     return Scaffold(
       extendBodyBehindAppBar: false,
       appBar: AppBar(
-        backgroundColor: Color.fromARGB(255, 0, 0, 0),
+        backgroundColor: const Color.fromARGB(255, 0, 0, 0),
         actions: [
           NavigationControls(controller: controller),
         ],

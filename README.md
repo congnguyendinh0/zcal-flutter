@@ -1,6 +1,6 @@
 # zcal_flutter
 
-A new Flutter project.
+Zcal flutter
 
 ## Getting Started
 
